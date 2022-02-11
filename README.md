@@ -2,10 +2,10 @@
 
 ## I'm a Programmer, and forever a student of life!
 
-- 🌱 I’m currently learning everything!
+- 🌱 I’m currently learning everything 📚!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a mum of two :boy::girl: and a flight attendant too :airplane:!
+- ⚡ Fun fact: I'm a mum of two 👨‍👩‍👧‍👦 and a flight attendant too ✈️!
 
 ### Languages and Tools:
 
