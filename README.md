@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 📚!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a mum of two 👨‍👩‍👧‍👦
+- ⚡ Fun fact: I had the opportunity to travel to over 25 countries ✈️
 
 ### Languages and Tools:
 
